@@ -1,6 +1,6 @@
-# Hackpad MK2
+# Hackpad MK3
 
-This repository contains all files for the **Hackpad MK2** project, a custom 9-key macro pad designed for productivity and customization.
+This repository contains all files for the **Hackpad MK3** project, a custom 9-key macro pad designed for productivity and customization.
 
 It features:
 - 3x3 mechanical keys (9 total)
@@ -13,12 +13,10 @@ It features:
 
 The Hackpad MK2 is designed with a sleek and compact form factor, perfect for desktop shortcuts and macros.
 
-<img src="Images/1.png" alt="Hackpad Overview" width="600">
-
 ---
 
 ## 🔌 Schematic
-![Schematic Screenshot](Images/4.png) 
+![Schematic Screenshot](1.png) 
 
 The schematic, designed in KiCad, shows the wiring for the 9 independent keys and the I2C OLED display. Each key is connected to a dedicated GPIO on the RP2040, and the OLED follows the GND-VCC-SCL-SDA pinout.
 
@@ -27,7 +25,7 @@ The schematic, designed in KiCad, shows the wiring for the 9 independent keys an
 ## 🖥️ PCB Layout
 The PCB was designed focusing on a clean layout and easy assembly. It includes custom silkscreen labeling and broad copper traces for reliability.
 
-<img src="Images/5.png" alt="PCB Layout" width="500">
+<img src="2.png" alt="PCB Layout" width="500">
 
 ---
 
@@ -35,8 +33,8 @@ The PCB was designed focusing on a clean layout and easy assembly. It includes c
 
 The case consists of two main parts: the base and the top cover, designed to be 3D printed and fit perfectly with the PCB.
 
-<img src="Images/2.png" alt="Case Base" width="400">
-<img src="Images/3.png" alt="Case Cover" width="400">
+<img src="3.png" alt="Case Base" width="400">
+<img src="4.png" alt="Case Cover" width="400">
 
 ---
 
