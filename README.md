@@ -35,6 +35,7 @@ The case consists of two main parts: the base and the top cover, designed to be 
 
 <img src="3.png" alt="Case Base" width="400">
 <img src="4.png" alt="Case Cover" width="400">
+<img src="5.png" alt="pcb" width="400">
 
 ---
 
